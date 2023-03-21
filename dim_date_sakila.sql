@@ -1,4 +1,4 @@
-USE sakila;
+USE sakila_dw2;
 # note the following code is simply copy and pasted from lab_02d
 
 DROP TABLE IF EXISTS dim_date;
